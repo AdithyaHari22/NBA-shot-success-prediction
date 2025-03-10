@@ -5,13 +5,9 @@ This repository contains a project that predicts NBA shot success using advanced
 ## Table of Contents
 
 - [About the Project](#about-the-project)
+- [Acknowledgements](#acknowledgements)
 - [Environment Setup](#environment-setup)
 - [Data Documentation](#data-documentation)
-- [Project Structure](#project-structure)
-- [Usage Examples and Visuals](#usage-examples-and-visuals)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About the Project
 
@@ -22,6 +18,18 @@ In modern NBA analytics, predicting the success of a shot can provide valuable i
 - Evaluates models based on accuracy, precision, recall, F1-score, and ROC-AUC.
 
 For further details, please refer to the [final project report](Predicting NBA Player Shooting Success Using Advanced Shot Metrics.pdf).
+
+## Acknowledgements
+## Acknowledgments
+
+This project was completed as a team effort alongside:
+- Adithya Hari (worked on feature engineering, Logistic Regression and SVM)
+- Quianyi Zhang (worked on data preprocessing, neural network model)
+- Anandha Ragavean Ravi (worked on XGBoost and LightGBM models)
+
+My contributions focused on the Logistic Regression and SVM portions of the project.
+
+Please note that this repository only includes my personal contributions for demonstration purposes.
 
 ## Environment Setup
 
