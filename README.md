@@ -1,6 +1,6 @@
 # NBA Shot Success Prediction
 
-This repository contains a project that predicts NBA shot success using advanced shot metrics. The project leverages several machine learning models (Logistic Regression, SVM, Artificial Neural Networks, XGBoost, and LightGBM) to analyze and predict the likelihood of a successful shot based on contextual game factors and engineered features.
+This repository contains a project that predicts NBA shot success using advanced shot metrics. The project leverages several machine learning models (Logistic Regression, SVM) to analyze and predict the likelihood of a successful shot based on contextual game factors and engineered features.
 
 ## Table of Contents
 
