@@ -47,4 +47,4 @@ To run the project, the following setup and instructions are provided:
 
 This project uses the [NBA Shots Dataset](https://www.kaggle.com/datasets/mexwell/nba-shots?resource=download) from Kaggle, which contains NBA data spanning the 2004 to 2024 seasons. For the scope of this project, the data from the 2021 season till the 2024 season has been used. Please refer to the dataset page for more details and licensing information.
 
-For further information on the data used in this dataset, refer to the DATA_DESCRIPTION.md file.
+For further information on the data used in this dataset, refer to the [DATA_DESCRIPTION.md](DATA_DESCRIPTION.md) file.
